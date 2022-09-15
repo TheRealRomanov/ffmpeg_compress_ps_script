@@ -1,0 +1,4 @@
+#This file must containe a path to ffmpeg.exe
+#The full path can be retrieved by holding down Shift key and right clicking on the ffmpeg.exe file in the explorer.
+#Note: make sure that inserted path does not include quotation marks
+C:\Program Files\ffmpeg\bin\ffmpeg.exe

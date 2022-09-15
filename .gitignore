@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!ffmpeg_path.txt
+!compress_mp4.ps1
