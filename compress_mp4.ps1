@@ -44,6 +44,6 @@ Measure-Command {
 	}
 }
 
-echo 'Output folder' + $outputFolder
-echo 'Number of processed files: '+$numberOfFiles
+echo "Output folder: $outputFolder"
+echo "Number of processed files: $numberOfFiles"
 Read-Host -Prompt "Press any key to close the window"
